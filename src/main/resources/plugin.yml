@@ -1,0 +1,10 @@
+name: MagicStick
+version: 1.0
+main: com.shynee.spigot.Spigot
+api-version: 1.17
+author: Shynee
+description: Magic Stick
+commands:
+  magicstick:
+    usage: /<command>
+    description: Gives the player the Magic Toy Stick item

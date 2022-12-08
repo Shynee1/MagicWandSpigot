@@ -1,0 +1,22 @@
+Item:
+  Name: "§6Magic Toy Stick" #The name of the item. The color of the tet can be changed using Minecraft color codes. The current color is gold.
+  Description: #The description/lore of the item. Each line represents a new line on the lore. The color of the tet can be changed using Minecraft color codes. The current color is gray.
+    - "§7A powerful magic stick that"
+    - "§7shoots you high in the air"
+  CustomRecipe: true #Allows the wand to be crafted fromm a custom recipe. See the plugin page for more details
+  OnlyOpRunCommand: false #Allows only people with the Operator permission run the command. This is turned off by default
+
+CreateExplosion:
+  Enabled: true #Whether the wand should create an explosion on use. This explosion will NOT harm the player.
+  LaunchBlocks: true #Launches blocks from the explosion high into the air. Note: Enabled needs to equal true for this to work.
+
+Player:
+  TakeFallDamage: false #Whether the player takes fall damage after being launched.
+  LaunchVelocity: 2.5 #How far the player is launched when using the wand.
+
+
+
+
+
+
+
