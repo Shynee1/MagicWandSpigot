@@ -3,7 +3,7 @@ version: 1.0
 main: com.shynee.spigot.Spigot
 api-version: 1.17
 author: Shynee
-description: Magic Stick
+description: A port of Hypixel's "Magic Toy Stick" victory dance
 commands:
   magicstick:
     usage: /<command>
